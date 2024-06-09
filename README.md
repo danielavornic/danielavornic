@@ -15,7 +15,6 @@
 - I'm specialize in building responsive, high-performance web applications using Next.js and TypeScript.
 - I'm a software engineering student at the Technical University of Moldova.
 - I'm interested in the field of AI, being a member of [Sigmoid](https://www.sigmoidai.org).
-- I’m available for work and freelancing.
   
 ### 🌱 Hackathon projects
 
