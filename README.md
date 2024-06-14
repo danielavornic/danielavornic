@@ -18,11 +18,11 @@
   
 ### 🌱 Hackathon projects
 
-- <a href="https://github.com/danielavornic/xmas-hack-2023">Schedule generator for university</a> (Xmas FAF Hackathon 2023)
-- <a href="https://github.com/danielavornic/ePetitii">ePetiții</a> (ESN Hackathon 2023, TechBridge Hackathon 2023)
-- <a href="https://github.com/danielavornic/peste-nistru-front">Dialoguri Peste Nistru: Unind Voci în Armonie</a> (Peace Accelerator Hackathon 2023)
-- <a href="https://github.com/danielavornic/lab-absente">Absences management for university</a> (Summer FAF Hackathon 2023)
-- <a href="https://github.com/danielavornic/trade-it">TradeIt - Bartering Application</a> (Improved version of the project developed during the Xmas FAF Hackathon 2022)
+- <a href="https://github.com/danielavornic/xmas-hack-2023">Schedule generator for university</a> (Xmas FAF Hackathon 2023, 2nd Place)
+- <a href="https://github.com/danielavornic/ePetitii">ePetiții</a> (ESN Hackathon 2023, TechBridge Hackathon 2023, 1st Place)
+- <a href="https://github.com/danielavornic/peste-nistru-front">Dialoguri Peste Nistru: Unind Voci în Armonie</a> (Peace Accelerator Hackathon 2023, 4th Place)
+- <a href="https://github.com/danielavornic/lab-absente">Absences management for university</a> (Summer FAF Hackathon 2023, 3rd Place
+- <a href="https://github.com/danielavornic/trade-it">TradeIt - Bartering Application</a> (Improved version of the project developed during the Xmas FAF Hackathon 2022, 1st Place)
 
 ### 📑 Articles
 
