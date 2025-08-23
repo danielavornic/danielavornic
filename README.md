@@ -10,6 +10,7 @@
 - I build web applications using Next.js and TypeScript.
 - I'm a software engineering student at the Technical University of Moldova.
 - I'm interested in the field of AI & Data Science, being a member of [Sigmoid](https://www.sigmoidai.org).
+- Currently exploring terminal tools and command-line workflows
 
 ### 📫 Let's connect
 
