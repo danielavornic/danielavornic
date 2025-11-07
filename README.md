@@ -1,13 +1,13 @@
 <div align="center">
   <span>
     <h1>Hi, I'm Daniela</h1>
-    <h3>I'm a front-end developer</h3>
+    <h3>I'm a software engineer</h3>
   </span>
 </div>
 
 ### About me
 
-- I build web applications using Next.js and TypeScript.
+- I build web applications using React/Next.js and TypeScript.
 - I'm a software engineering student at the Technical University of Moldova.
 - I'm interested in the field of AI & Data Science, being a member of [Sigmoid](https://www.sigmoidai.org).
 - Currently exploring terminal tools and command-line workflows, and working on my thesis.
