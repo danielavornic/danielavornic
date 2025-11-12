@@ -7,7 +7,7 @@
 
 ### About me
 
-- I build web applications using React/Next.js and TypeScript.
+- Currently I build web applications using React/Next.js and TypeScript; learning back-end.
 - I'm a software engineering student at the Technical University of Moldova.
 - I'm interested in the field of AI & Data Science, being a member of [Sigmoid](https://www.sigmoidai.org).
 - Currently exploring terminal tools and command-line workflows, and working on my thesis.
