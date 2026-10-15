@@ -10,7 +10,7 @@
 - Currently I build web applications using React/Next.js and TypeScript; diving into back-end.
 - I'm a software engineering senior student at the Technical University of Moldova.
 - I'm interested in the field of AI & Data Science, being a member of [Sigmoid](https://www.sigmoidai.org).
-- Currently exploring terminal tools and command-line workflows, self-hosting and home-labbing, and working on my thesis.
+- Currently exploring terminal tools and command-line workflows, self-hosting and home-labbing.
 
 Started [this website](https://danielavornic.github.io) recently to motivate myself to take more notes.
 
